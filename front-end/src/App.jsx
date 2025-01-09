@@ -1,5 +1,7 @@
+import { Layout } from "./components/Layout/Layout";
+
 function App() {
-  return <p>Siema</p>;
+  return <Layout />;
 }
 
 export default App;
